@@ -17,6 +17,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.1692.0"
+    "nodemailer": "^7.0.3"
   }
 }
