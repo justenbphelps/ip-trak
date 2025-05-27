@@ -1,0 +1,22 @@
+{
+  "name": "ip-trak",
+  "version": "1.0.0",
+  "description": "IP tracking service with geolocation",
+  "main": "track.js",
+  "scripts": {
+    "start": "node track.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "ip",
+    "tracking",
+    "geolocation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0"
+  }
+}
