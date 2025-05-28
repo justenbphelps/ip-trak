@@ -17,6 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemailer": "^7.0.3"
+    "nodemailer": "^7.0.3",
+    "twilio": "^5.6.1"
   }
 }
